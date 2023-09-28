@@ -5,3 +5,6 @@ In this project of mine I wont only categorize supply chain under the manufactur
 
 That been said above, let's head right into our supply chain analytics projects.
 
+[![Supply Chain Analytical video](Make_vs_buy.jpg)](https://youtu.be/gz3BQEvko48)
+
+
