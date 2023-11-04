@@ -1,26 +1,85 @@
-# Supply Chain Analytics
+# SUPPLY CHAIN ANALYTICS
+
 ![Supply Chain Analytical video](supply.jpg)
 ## Executive Summary
 Supply chain analytics is a crucial component of modern businesses seeking to optimize their operations and enhance overall efficiency.
+
 Supply chain analytics involves the use of data and advanced analytics tools to gain insights, make informed decisions, and improve the performance of a company's supply chain. It encompasses a wide range of activities, from demand forecasting to inventory management, transportation optimization, and supplier performance analysis.
-
-In this project of mine I wont only categorize supply chain under the manufacturing zone, supply chain touches procurement, logistics and other corporate sectors. My focus will be more on the procurement zone. Procurement on its own is a critical component of supply chain management process. Procurement specifically refers to the process of acquiring goods & services.
-
-That been said above, let's head right into our supply chain analytics projects.
-
-The Supply Chain begins with the producers of raw materials and ends with the product being delivered to the consumer. In this project we will be more of the consumer side. so lets dive in to one of the terms that will help us in the supply chain ecosystem.
 
 ## What is Make Vs Buy
 “Make Vs Buy” is a strategic decision-making process that organizations go through when determining whether to produce (make) a product or component in-house or to purchase (buy) it from external suppliers. This decision has significant implications for cost, quality, time-to-market, and resource allocation.
 
 ## The Problem Statement
 
-The company is into production and manufacturing of generators, spare parts and servicing.The organization is facing a make vs. buy decision for its products within its operations. The decision involves evaluating whether to produce internally or procure it from external vendors or suppliers.
+The company is into production and manufacturing of generators, spare parts and servicing.The organization is facing a Make Vs. Buy decision challenges for its products within its operations. The decision involves evaluating whether to produce internally or procure it from external vendors or suppliers.
+
+
+## Key Challenges:
+
+1. Cost Analysis: The company needs to conduct a comprehensive cost analysis that considers the expenses associated with in-house production (e.g., labor, machinery, facilities) versus external procurement (e.g., supplier contracts, transportation costs). The objective is to identify the most cost-effective option.
+
+1. Quality and Control: The quality and control of the products are paramount. The organization must determine whether in-house production allows for better quality control and customization, or if external suppliers offer superior quality and expertise.
+
+1. Resource Allocation: The decision involves allocating human, financial, and technological resources. The company must assess its capacity to handle the production of the generator parts internally and evaluate the opportunity cost of using these resources elsewhere.
+
+1. Risk Management: There are risks associated with both options, such as production risks (e.g., operational disruptions) in-house and supplier risks (e.g., supply chain disruptions) when buying externally. Risk mitigation strategies must be considered.
+
+1. Strategic Alignment: The choice between make and buy should align with the organization's strategic goals. The company needs to evaluate how the decision impacts its core competencies and strategic positioning.
+
+
+## Objectives:
+
+The primary objectives of this analysis are to:
+
+1. Determine the most cost-effective solution by (make or buy) for the manufacturing of the products or spare parts.
+1. Ensure the chosen option aligns with the organization's strategic goals and core competencies.
+1. Manage potential risks and disruptions associated with the selected approach.
+1. optimize resource allocation and improve operational efficiency.
+
+
+## Scope:
+This analysis will focus specifically on the make vs. buy decision for product/service/component. It will consider financial, operational, strategic, and compliance factors to reach an informed and well-supported decision.
+
+## Deliverables:
+The outcome of this analysis will be a clear recommendation for either making or buying product/service/component, along with a detailed rationale that considers cost-effectiveness, quality, resource allocation, and risk management. The recommendation will inform the organization's strategic decision-making process.
+
+## Success Criteria:
+The success of this project will be measured by the clear and well-supported recommendation provided, which aligns with the organization's strategic goals and optimizes the use of resources while mitigating risks.
+
+## Dependencies:
+This analysis may require collaboration with supply chain department, procurement department and internal and external stakeholders for data and information gathering. 
+
+
+> [**RISKS**]
+> **Potential risks include inaccurate cost analysis, insufficient data for decision-making, and unexpected disruptions in the supply chain.**
+
+
+## Action Proposed for objectives
+
+1. Determine the most cost-effective solution (make or buy) for the manufacturing of the products or spare parts.
+
+
+
+
+
 
 ![Supply Chain Analytical video](data.jpg)
 
 
 From the image above we can see the numbers of tables we will be working with. The scenario volume, scenario volume(All), supplier yield, are not the raw data, those are table created to support our analytics context.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Lets explore the quote data in detail.
 Quotes :
