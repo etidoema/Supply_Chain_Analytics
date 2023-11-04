@@ -58,6 +58,11 @@ This analysis may require collaboration with supply chain department, procuremen
 
 1. Determine the most cost-effective solution (make or buy) for the manufacturing of the products or spare parts.
 
+![Make Vs Buy](Make_vs_buy.jpg)
+When determining whether to make or buy products or spare parts, i performed a cost-benefit analysis. This analysis consider various factors, including the volume of production, cost of manufacturing in-house, and the cost of purchasing from external suppliers.
+
+From the report above on the slicer visual, which is at the top right corner and its called scenario volume, i can input any volume, which will aid in the volume of the production.
+
 
 
 
