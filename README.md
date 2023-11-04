@@ -1,4 +1,4 @@
-# Supply_Chain_Analytics
+# Supply Chain Analytics
 ![Supply Chain Analytical video](supply.jpg)
 ## Executive Summary
 Supply chain analytics is a crucial component of modern businesses seeking to optimize their operations and enhance overall efficiency.
@@ -15,8 +15,7 @@ The Supply Chain begins with the producers of raw materials and ends with the pr
 
 ## The Problem Statement
 
-The company is into production of generators, spare parts and servicing. Your task is to create analyses that help the company determine make vs buy decision for many of their products they use in servicing their generators. The management has already requested quotes from the suppliers. Lets look at the data that we will be using for this analysis.
-
+The company is into production and manufacturing of generators, spare parts and servicing.The organization is facing a make vs. buy decision for its products within its operations. The decision involves evaluating whether to produce internally or procure it from external vendors or suppliers.
 
 ![Supply Chain Analytical video](data.jpg)
 
