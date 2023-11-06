@@ -31,8 +31,8 @@ The company is into production and manufacturing of generators, spare parts and 
 
 The primary objectives of this analysis are to:
 
-1. Determine the most cost-effective solution by (make or buy) for the manufacturing of the products or spare parts.
 1. Ensure the chosen option aligns with the organization's strategic goals and core competencies.
+1. Determine the most cost-effective solution by (make or buy) for the manufacturing of the products or spare parts.
 1. Manage potential risks and disruptions associated with the selected approach.
 1. optimize resource allocation and improve operational efficiency.
 
@@ -56,24 +56,33 @@ This analysis may require collaboration with supply chain department, procuremen
 
 ## Action Proposed for objectives
 
-1. Determine the most cost-effective solution (make or buy) for the manufacturing of the products or spare parts.
-
-![Make Vs Buy](Make_vs_buy.jpg)
-
-  When determining whether to make or buy products or spare parts, i performed a cost-benefit analysis. This analysis consider various factors, including the volume of production, cost of manufacturing in-house, and the cost of purchasing from external suppliers.
-
-The report includes a "Scenario Volume" slicer in the top right corner. It allows users to input a production volume, helping analyze the cost-effectiveness of making or buying products or spare parts for that specific volume. This feature facilitates scenario analysis and informed decision-making.
-
-
-1. Ensure the chosen option aligns with the organization's strategic goals and core competencies.
-
-
+#### 1. Ensure the chosen option aligns with the organization's strategic goals.
 
 
 ![Supply Chain Analytical video](data.jpg)
 
+From the image above we can see the numbers of tables we will be working with. The scenario volume, scenario volume(All), supplier yield, are not the raw data, those are table created using new measures and dax to support our analytics context. The data we have selected for the analysis aligns with the organizations strategic goals for the project.
 
-From the image above we can see the numbers of tables we will be working with. The scenario volume, scenario volume(All), supplier yield, are not the raw data, those are table created to support our analytics context.
+#### 2. Determine the most cost-effective solution (make or buy) for the manufacturing of the products or spare parts.
+
+![Make Vs Buy](Make_vs_buy.jpg)
+
+  When determining whether to make or buy products or spare parts, i performed a cost-benefit analysis. This analysis considered various factors, including the volume of production, cost of manufacturing in-house, and the cost of purchasing from external suppliers.
+
+The report includes a "Scenario Volume" slicer in the top right corner. It allows users to input a production volume, helping analyze the cost-effectiveness of making or buying products or spare parts for that specific volume. This feature facilitates scenario analysis and informed decision-making.
+
+### Recommendation
+
+1. Optimize Production Volume: Utilize the "Scenario Volume" slicer to dynamically adjust the production volume based on market demand and cost considerations. This flexibility can help you optimize production levels in real-time.
+
+2. Balance In-House and Outsourcing: Depending on the analysis,i will suggest an approach of stakeholders referring to this dashboard, to help them in choosen between make vs buy, because it helps in ensuring that you can efficiently meet demand while controlling costs.
+
+3. Cost Transparency: We need to promote cost transparency across the supply chain, enabling stakeholders to understand how costs vary with changes in scenario volume.
+
+
+
+
+
 
 
 
