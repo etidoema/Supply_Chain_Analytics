@@ -71,7 +71,7 @@ From the image above we can see the numbers of tables we will be working with. T
 
 The report includes a "Scenario Volume" slicer in the top right corner. It allows users to input a production volume, helping analyze the cost-effectiveness of making or buying products or spare parts for that specific volume. This feature facilitates scenario analysis and informed decision-making.
 
-### Recommendation
+#### Recommendation
 
 1. Optimize Production Volume: Utilize the "Scenario Volume" slicer to dynamically adjust the production volume based on market demand and cost considerations. This flexibility can help you optimize production levels in real-time.
 
@@ -81,8 +81,11 @@ The report includes a "Scenario Volume" slicer in the top right corner. It allow
 
 
 
+#### 3. Manage potential risks and disruptions associated with the selected approach.
 
 
+
+> # [ ONGOING PROJECT DOCUMENTATION]
 
 
 
