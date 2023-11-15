@@ -110,6 +110,8 @@ We can handle access control of the data that is available to different team by 
 
 Thank you for going through my write up, up till this point, you can click on the link below to interact with the dashboard, to get a full picture of my explanation and scenarios. Thank you, lets call it a day!..
 
+<iframe title="supply chain" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=0e909fee-aed2-490b-8f5e-36b6eed57236&autoAuth=true&ctid=e1e4f47f-4370-4de4-8a71-48984d434887" frameborder="0" allowFullScreen="true"></iframe>
+
 
 
 
