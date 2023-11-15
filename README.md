@@ -69,7 +69,7 @@ lets explore building a scenario analysis tool to examine how the cost calculati
 
 
 ### Case scenario :
-There is a need for a higher volume of product, which is outside the quoted amount that the organization have, the volume is 10000 for part number P1227. Even though we did not have the quoted figures for this, because what was by the suppliers had a maximum 2000 quoted volume, how ever there is a demand for 10000 volumes. Scenario analysis helps in doing this.
+There is a need for a higher volume of product, which is outside the quoted amount that the organization have, the volume is 10000 for part number P1227. Even though we did not have the quoted figures for this, because what was shared by the suppliers had a maximum 2000 quoted volume, how ever there is a demand for 10000 volumes. Scenario analysis helps in doing this.
 
 ![Cost Analysis](cost_analysis.jpg)
 
