@@ -54,12 +54,15 @@ This analysis may require collaboration with supply chain department, procuremen
 > **Potential risks include inaccurate cost analysis, insufficient data for decision-making, and unexpected disruptions in the supply chain.**
 
 
-## Action Proposed for objectives
+## Action Proposed for problems
 
-#### 1. Ensure the chosen option aligns with the organization's strategic goals.
+### Cost Analysis:
+The company needs to conduct a comprehensive cost analysis that considers the expenses associated with in-house production (e.g., labor, machinery, facilities) versus external procurement (e.g., supplier contracts, transportation costs). The objective is to identify the most cost-effective option
 
 
-![Supply Chain Analytical video](data.jpg)
+
+
+![Cost Analysis](Supplier_Selection.jpg)
 
 From the image above we can see the numbers of tables we will be working with. The scenario volume, scenario volume(All), supplier yield, are not the raw data, those are table created using new measures and dax to support our analytics context. The data we have selected for the analysis aligns with the organizations strategic goals for the project.
 
