@@ -102,6 +102,7 @@ We can handle access control of the data that is available to different team by 
 
 ### Data Model
 
+![Make Vs Buy](data_model.jpg)
 
 
 
