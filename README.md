@@ -22,6 +22,8 @@ The company is into production and manufacturing of generators, spare parts and 
 
 1. Make or buy decision: The decision involves allocating human, financial, and technological resources. The company must assess its capacity to handle the production of the generator parts internally and evaluate the opportunity cost of using these resources elsewhere.
 
+1. Access Control
+
 
 
 ## Objectives:
@@ -86,6 +88,21 @@ There is a need for a higher volume of product, which is outside the quoted amou
 
 
 For the part_number P1010, its advisable to buy, because you will be avoiding a cost of 222k, if check the buy scenario full cost by supplier and part number table , you can also see that its also telling you the name of the supplier that will give you this.
+
+
+### Access Control
+
+We can handle access control of the data that is available to different team by managing roles on Power Bi.
+
+![Make Vs Buy](manage_roles.jpg)
+
+![Make Vs Buy](view_as.jpg)
+
+
+
+### Data Model
+
+
 
 
 ### APPRECIATION
