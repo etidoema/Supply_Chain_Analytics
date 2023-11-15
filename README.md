@@ -53,50 +53,48 @@ This analysis may require collaboration with supply chain department, procuremen
 
 ## Action proposed for problems
 
-### Cost analysis for supplier selection:
+### 1 Cost analysis for supplier selection:
 The company aims to conduct a comprehensive cost analysis that takes into account the expense variations associated with products sourced from different suppliers. This analysis will encompass sum of extended cost, sum of non reoccuring_expenses, sum of unit cost by volume & supplier, and sum of non reoccuring expenses by volume and supplier. The primary objective is to identify the most cost-effective option in terms of the supplier quote. 
 
-### Case scenario :
+### Problem Explained :
 If the stake holders want a volume of 2000 for Part number P9091, the supplier will be BoxPlay limited, The supplier here is the lowest cost supplier for that intended volume.
 
 
 
 ![Cost Analysis](cost_analysis.jpg)
 
-#### 2. Scenario Analysis :
+### 2. Scenario Analysis :
 lets explore building a scenario analysis tool to examine how the cost calculations change as volumes change with the aid of Dax. i will create visualizations of how the full cost changes across the different potential production volumes and how this will help organization handle different scenarios.
 
 
 
-### Case scenario :
-There is a need for a higher volume of product, which is outside the quoted amount that the organization have, the volume is 10000 for part number P1227. Even though we did not have the quoted figures for this, because what was shared by the suppliers had a maximum 2000 quoted volume, how ever there is a demand for 10000 volumes. Scenario analysis helps in doing this.
+### Problem Explained  :
+There is a need for a higher volume of product, which is outside the quoted amount that the organization have, the volume is 10000 for part number P1227. Even though we did not have the quoted figures for this, because what was shared by the suppliers had a maximum 2000 quoted volume, how ever there is a demand for 10000 volumes. Scenario analysis helps in doing this. As we can see from the image below ATZ company meets the requirement.
 
-![Cost Analysis](cost_analysis.jpg)
+![Cost Analysis](Scenario_analysis.jpg)
 
 
-#### 3. Determine the most cost-effective solution (make or buy) for the manufacturing of the products or spare parts.
+### 3. Determine the most cost-effective solution (make or buy) for the manufacturing of the products or spare parts.
+
+ The company aims to choose between to either make a product or buy one, i performed a cost-benefit analysis. This analysis considered various factors, including the volume of production, cost of manufacturing in-house, and the cost of purchasing from external suppliers. This analysis will encompass ; scenario volume slicer, a buy scenario full cost by supplier and part number , table that consist of calculated and non calculated columns : (Part_number, Part_name, Make vs buy , cost avoidance) , also another table that consist of calculated and non calculated columns : (Part_name, Part_number, Machine_model, existing_capacity, unit_capacity, additional_unit_capacity_required, Make_scenario_full_cost). The primary objective is to choose between make vs buy.
+ 
+
+ ### Problem Explained  : 
+ For a scenario volume of 7500 , the stake holders want to know which is beneficial in the long run, should they do the product in house or should they buy it. and this should come with a reason.
 
 ![Make Vs Buy](Make_vs_buy.jpg)
 
-  When determining whether to make or buy products or spare parts, i performed a cost-benefit analysis. This analysis considered various factors, including the volume of production, cost of manufacturing in-house, and the cost of purchasing from external suppliers.
 
-The report includes a "Scenario Volume" slicer in the top right corner. It allows users to input a production volume, helping analyze the cost-effectiveness of making or buying products or spare parts for that specific volume. This feature facilitates scenario analysis and informed decision-making.
+For the part_number P1010, its advisable to buy, because you will be avoiding a cost of 222k, if check the buy scenario full cost by supplier and part number table , you can also see that its also telling you the name of the supplier that will give you this.
 
-#### Recommendation
 
-1. Optimize Production Volume: Utilize the "Scenario Volume" slicer to dynamically adjust the production volume based on market demand and cost considerations. This flexibility can help you optimize production levels in real-time.
+### APPRECIATION
 
-2. Balance In-House and Outsourcing: Depending on the analysis,i will suggest an approach of stakeholders referring to this dashboard, to help them in choosen between make vs buy, because it helps in ensuring that you can efficiently meet demand while controlling costs.
-
-3. Cost Transparency: We need to promote cost transparency across the supply chain, enabling stakeholders to understand how costs vary with changes in scenario volume.
+Thank you for going through my write up, up till this point, you can click on the link below to interact with the dashboard, to get a full picture of my explanation and scenarios. Thank you, lets call it a day!..
 
 
 
-#### 3. Manage potential risks and disruptions associated with the selected approach.
 
-
-
-> # [ ONGOING PROJECT DOCUMENTATION]
 
 
 
