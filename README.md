@@ -56,13 +56,15 @@ This analysis may require collaboration with supply chain department, procuremen
 
 ## Action Proposed for problems
 
-### Cost Analysis:
-The company needs to conduct a comprehensive cost analysis that considers the expenses associated with in-house production (e.g., labor, machinery, facilities) versus external procurement (e.g., supplier contracts, transportation costs). The objective is to identify the most cost-effective option
+### Cost Analysis for supplier selection:
+The company aims to conduct a comprehensive cost analysis that takes into account the expense variations associated with products sourced from different suppliers. This analysis will encompass sum of extended cost, sum of non reoccuring_expenses, sum of unit cost by volume & supplier, and sum of non reoccuring expenses by volume and supplier. The primary objective is to identify the most cost-effective option in terms of the supplier quote. 
+
+### Case Scenario :
+If the stake holders want a volume of 2000 for Part number P9091, the supplier will be BoxPlay limited, The supplier here is the lowest cost supplier for that intended volume.
 
 
 
-
-![Cost Analysis](Supplier_Selection.jpg)
+![Cost Analysis](cost_analysis.jpg)
 
 From the image above we can see the numbers of tables we will be working with. The scenario volume, scenario volume(All), supplier yield, are not the raw data, those are table created using new measures and dax to support our analytics context. The data we have selected for the analysis aligns with the organizations strategic goals for the project.
 
