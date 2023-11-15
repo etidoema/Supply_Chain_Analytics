@@ -18,7 +18,7 @@ The company is into production and manufacturing of generators, spare parts and 
 
 1. Cost Analysis: The company needs to conduct a comprehensive cost analysis that considers the expenses associated with in-house production (e.g., labor, machinery, facilities) versus external procurement (e.g., supplier contracts, transportation costs). The objective is to identify the most cost-effective option.
 
-1. Scenario Analysis: The quality and control of the products are paramount. The organization must determine whether in-house production allows for better quality control and customization, or if external suppliers offer superior quality and expertise.
+1. Scenario Analysis: The organization want to be able to handle uncertainties in different scenarios, which they cant at the moment.
 
 1. Make or buy decision: The decision involves allocating human, financial, and technological resources. The company must assess its capacity to handle the production of the generator parts internally and evaluate the opportunity cost of using these resources elsewhere.
 
@@ -51,20 +51,30 @@ This analysis may require collaboration with supply chain department, procuremen
 > **Potential risks include inaccurate cost analysis, insufficient data for decision-making, and unexpected disruptions in the supply chain.**
 
 
-## Action Proposed for problems
+## Action proposed for problems
 
-### Cost Analysis for supplier selection:
+### Cost analysis for supplier selection:
 The company aims to conduct a comprehensive cost analysis that takes into account the expense variations associated with products sourced from different suppliers. This analysis will encompass sum of extended cost, sum of non reoccuring_expenses, sum of unit cost by volume & supplier, and sum of non reoccuring expenses by volume and supplier. The primary objective is to identify the most cost-effective option in terms of the supplier quote. 
 
-### Case Scenario :
+### Case scenario :
 If the stake holders want a volume of 2000 for Part number P9091, the supplier will be BoxPlay limited, The supplier here is the lowest cost supplier for that intended volume.
 
 
 
 ![Cost Analysis](cost_analysis.jpg)
 
+#### 2. Scenario Analysis :
+lets explore building a scenario analysis tool to examine how the cost calculations change as volumes change with the aid of Dax. i will create visualizations of how the full cost changes across the different potential production volumes and how this will help organization handle different scenarios.
 
-#### 2. Determine the most cost-effective solution (make or buy) for the manufacturing of the products or spare parts.
+
+
+### Case scenario :
+There is a need for a higher volume of product, which is outside the quoted amount that the organization have, the volume is 10000 for part number P1227. Even though we did not have the quoted figures for this, because what was by the suppliers had a maximum 2000 quoted volume, how ever there is a demand for 10000 volumes. Scenario analysis helps in doing this.
+
+![Cost Analysis](cost_analysis.jpg)
+
+
+#### 3. Determine the most cost-effective solution (make or buy) for the manufacturing of the products or spare parts.
 
 ![Make Vs Buy](Make_vs_buy.jpg)
 
